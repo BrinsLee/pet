@@ -1,2 +1,4 @@
+include ':lib_bridge'
+include ':lib_appbase'
 include ':app'
 rootProject.name = "Pet"
